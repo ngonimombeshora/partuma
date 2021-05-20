@@ -1,5 +1,5 @@
 {
-    "title": "Business Casual",
+    "title": "Partuma Lodge and Jazz Club",
     "name": "startbootstrap-business-casual",
     "version": "7.0.0",
     "scripts": {
@@ -9,10 +9,10 @@
         "build:scripts": "node scripts/build-scripts.js",
         "build:scss": "node scripts/build-scss.js",
         "clean": "node scripts/clean.js",
-        "start": "npm run build && node scripts/start.js",
+        "start": "node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A casual HTML website theme for businesses built with Bootstrap",
+    "description": "Company website built with Bootstrap",
     "keywords": [
         "css",
         "sass",
